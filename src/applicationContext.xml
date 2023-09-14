@@ -10,4 +10,5 @@
 	<!-- sample04 -->
 	<bean id="calcAdd" class="sample04.CalcAdd"></bean> <!-- 패키지 명하고 같이써야된다. 아이디는 클래스명 따라가되 소문자로 시작하게끔 해준다. -->
 	<bean id="calcMul" class="sample04.CalcMul"></bean>
+	<bean id="sungJukImpl" class="sample05.SungJukImpl"></bean> 
 </beans>
